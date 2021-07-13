@@ -1,0 +1,54 @@
+.main
+{
+    position: relative;top: -96px;
+    background-color : #FAFAFA;
+}
+.subdiv{
+    position: relative;left: 100px;bottom: -135px;
+}
+/*.text-align{*/
+/*text-align : right;*/
+/*}*/
+@media (min-width: 768px){
+.col-md-4 {
+    flex: 0 0 33.33333%;
+    max-width: 33.33333%;
+}
+}
+.txt-align-center{
+   text-align : center;
+}
+.prodt-sect{
+    background-color: #F2F2F2;
+    position: relative;
+    bottom: -60px;
+}
+.font-color{
+    color : #879CA6;
+}
+.heading-color{
+    color: #3F88FC;
+}
+.txt-color{
+    color:#879CA6;
+}
+.table-color{
+    color: #ADADAD;
+}
+.color-font{
+    color: #000000;
+}
+/*newly added deepali css*/
+
+.img-fr{
+    float : right;
+}
+.img-pd{
+padding : 34px;
+}
+.frt-img-wd{
+    width: 42%;
+}
+.pst-rgt{position: relative;
+    right: -28px;}
+
